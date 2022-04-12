@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vnode": "^0.0.1",
+    "vuetify": "^2.6.4"
+  }
+}
